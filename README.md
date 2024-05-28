@@ -5,18 +5,17 @@
 
 <a><img src='https://telegra.ph/file/05bde909a6d700b4b8bdd.jpg'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=AM+MADARA+MD+CREATED+BY+BRYANT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=AM+MADARA+MD+CREATED+BY+BRYANT)](https://git.io/typing-svg)
 
-<a><img src='https://telegra.ph/file/0b0e3b491bf74ab969223.jpg'/></a>
  
 <p align="center"> MADARA MD 😈, A Simple WhatsApp user BOT, Created by BRYANT TECH.
 </p>
 <p align="center">
 
 
-  <a href="https://telegra.ph/file/b1b572204ead676f738c1.mp4"><img 
+  <a href="https://telegra.ph/file/ac9f1da891955779abf55.jpg"><img 
                                                                src="https://telegra.ph/file/3c753002fab985c1cb1e7.jpg" alt="01" border="0" /></a>                     
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://telegra.ph/file/b1b572204ead676f738c1.mp4'/></a>
  <h1 align="center">  SCAN SESSION </h1>
  
 
