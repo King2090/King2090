@@ -5,7 +5,7 @@
 
 <a><img src='https://telegra.ph/file/05bde909a6d700b4b8bdd.jpg'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=AM+MADARA+MD+CREATED+BY+BRYANT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=AM+MADARA+MD+CREATED+BY+BRYANT+TECH)](https://git.io/typing-svg)
 
  
 <p align="center"> MADARA MD 😈, A Simple WhatsApp user BOT, Created by BRYANT TECH.
@@ -78,7 +78,7 @@ HOW TO REACH THE OWNER?
 
 
 
-  ***<p align="center"><a href="https://bmw-code-app-c1168f4953cd.herokuapp.com/">
+  ***<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/King2090/MADARA-MD">
  <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20BRYANT%20TECH%20APP-Yellow?style=for-the-badge&logo=MADARA MD" width="220" height="38.45"/></a></p>***
 
 
