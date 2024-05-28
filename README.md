@@ -5,17 +5,17 @@
 
 <a><img src='https://telegra.ph/file/e1fd045abc25ebcc215c3.jpg'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=AM+MADARA+MD+CREATED+BY+BRYANT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=AM+MADARA+MD+CREATED+BY+BRYANT+TECH)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<p align="center"> BMW MD💥, A Simple WhatsApp user BOT, Created by Ibrahim Tech.
+<p align="center"> BRYANT MD😈, A Simple WhatsApp user BOT, Created by Ibrahim Tech.
 </p>
 <p align="center">
 
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/3c753002fab985c1cb1e7.jpg" alt="01" border="0" /></a>                     
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/a2946fab12539010dc0ee.jpg" alt="01" border="0" /></a>                     
+<a><img src='https://telegra.ph/file/6d019ef477ecea02ab8f9.png'/></a>
  <h1 align="center">  SCAN SESSION </h1>
  
 
@@ -69,7 +69,7 @@ HOW TO REACH THE OWNER?
 
  <h1 align="center">
 
-  ***[`TAP HERE TO DEPLOY ON HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BMW-MD)***
+  ***[`TAP HERE TO DEPLOY ON HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/King2090/MADARA-MD)***
 
 
 
