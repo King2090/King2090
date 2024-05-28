@@ -83,7 +83,7 @@ HOW TO REACH THE OWNER?
 
 
 
-<a><img src='https://telegra.ph/file/46e78b097c0c83f59e9eb.mp4'
+
    
   
 
