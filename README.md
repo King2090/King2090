@@ -14,7 +14,8 @@
 <p align="center">
 
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/3c753002fab985c1cb1e7.jpg" alt="01" border="0" /></a>                     
+  <a href="https://telegra.ph/file/b1b572204ead676f738c1.mp4"><img 
+                                                               src="https://telegra.ph/file/3c753002fab985c1cb1e7.jpg" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center">  SCAN SESSION </h1>
  
@@ -26,10 +27,11 @@
  [QR] ***[`TAP HERE TO SCAN QR`](https://bmw-code-app-c1168f4953cd.herokuapp.com/qr)***
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://telegra.ph/file/8c24d36ce0e98e0763b12.jpg'/></a>
+
 ## Support ❣️❣️❣️❣️
 ## Join my channel for updates and get free cc
-<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank">
+<a href="https://chat.whatsapp.com/HsPiKU0POmU6Pbg4SLwi90" target="_blank">
     <img alt="whatsapp Group" src="https://chat.whatsapp.com/HsPiKU0POmU6Pbg4SLwi90.io/badge/ Whatsapp Support Channel -https://whatsapp.com/channel/0029VacpEdXIt5rqKLB9nC1L" />
   </a>
 </p>
