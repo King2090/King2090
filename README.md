@@ -3,13 +3,13 @@
  <h1 align="center"> MADARA MD </h1>
 
 
-<a><img src='https://telegra.ph/file/e1fd045abc25ebcc215c3.jpg'/></a>
+<a><img src='https://telegra.ph/file/05bde909a6d700b4b8bdd.jpg'/></a>
       
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=AM+MADARA+MD+CREATED+BY+BRYANT)](https://git.io/typing-svg)
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://telegra.ph/file/0b0e3b491bf74ab969223.jpg'/></a>
  
-<p align="center"> MADARA MD 😈, A Simple WhatsApp user BOT, Created by Ibrahim Tech.
+<p align="center"> MADARA MD 😈, A Simple WhatsApp user BOT, Created by BRYANT TECH.
 </p>
 <p align="center">
 
