@@ -1,5 +1,5 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://telegra.ph/file/8c24d36ce0e98e0763b12.jpg'/></a>
+<a><img src='https://telegra.ph/file/4efce2555fe08f28627d4.jpg'/></a>
  <h1 align="center"> MADARA MD </h1>
 
 
